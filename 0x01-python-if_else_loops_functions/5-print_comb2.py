@@ -3,4 +3,4 @@ for i in range(0, 100):
     if i == 100:
         print("()".format(i))
     else:
-        print("{:02d}, ".format(i), end='')
+        print("{:02d} ".format(i), end='')
