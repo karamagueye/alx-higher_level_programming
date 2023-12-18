@@ -20,17 +20,27 @@ How to correctly handle an exception
 What’s the purpose of catching exceptions
 How to raise a builtin exception
 When do we need to implement a clean-up action after an exception
+<<<<<<< HEAD
 **Copyright - Plagiarism**
 
+=======
+
+Copyright - Plagiarism
+>>>>>>> f735cf1c1edd1937053569aaf28ec43ee1140148
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
+<<<<<<< HEAD
 **Requirements**
 
 *General*
 
+=======
+Requirements
+General
+>>>>>>> f735cf1c1edd1937053569aaf28ec43ee1140148
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
