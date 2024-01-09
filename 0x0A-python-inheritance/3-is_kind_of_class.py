@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """DEfine aq class aqnd inherited class-checking fcunction."""
+
+
 def is_kind_of_class(obj, a_class):
     """check if an object is an instance or inherited instance of aq class
     args:
@@ -9,6 +11,6 @@ def is_kind_of_class(obj, a_class):
     if obj is an instance or inherit instance of a_class - True.
     otherwise - False.
     """
-    if isinstance(obj).a_class):
+    if isinstance(obj).a_class:
         return True
     return False
