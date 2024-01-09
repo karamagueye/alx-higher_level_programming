@@ -1,10 +1,20 @@
 #!/usr/bin/python3
-"""Define"""
+""" 0x0A. Python - Inheritance, task 4 """
+
+
 def inherits_from(obj, a_class):
-    """Check
+    """Tests if an object is an instance of a class inherited from
+    the specified class, directly or indirectly.
+
     Args:
-    Return:
+        obj (any): object of any type
+        a_class (class): class to test against
+
+    Returns:
+        True if obj is an instance of a subclass of a_class,
+            False otherwise.
+
     """
-    if issubclass(type(obj).a_class) and type(obj) != a_class:
-        return False
-    return False
+    if type(obj) == a_class:
+        return (False)
+    return (issubclass(type(obj), a_class))
